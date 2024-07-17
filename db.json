@@ -17,6 +17,101 @@
         {"id": 1,"url": "https://www.istore.kg/media/products/11-white_6A7orer.webp"}
       ],
       "category": {"id": 1,"title": "iPhone"}
+    },
+    {
+      "id": 2,
+      "title": "iPhone12",
+      "price": 55900,
+      "memory": [
+        {"id": 1, "size": 128},
+        {"id": 2, "size": 256},
+        {"id": 3, "size": 512}
+      ],
+      "colors": [
+        {"id": 1,"name": "Green"},
+        {"id": 2,"name": "Starlight"},
+        {"id": 2,"name": "Midnight"},
+        {"id": 2,"name": "(PRODUCT)Red"},
+        {"id": 2,"name": "Pink"},
+        {"id": 2,"name": "Blue"}
+      ],
+      "images": [
+        {"id": 1,"url": "https://www.istore.kg/media/products/iphone-13-starlight-select-2021.webp"}
+      ],
+      "category": {"id": 1,"title": "iPhone"}
+    },
+    {
+      "id": 3,
+      "title": "iPad 13",
+      "price": 119540,
+      "memory": [
+        {"id": 1, "size": 256},
+        {"id": 2, "size": 512},
+        {"id": 3, "size": 1},
+        {"id": 4, "size": 2}
+      ],
+      "colors": [
+        {"id": 1,"name": "Space Black"},
+        {"id": 2,"name": "Silver"}
+      ],
+      "images": [
+        {"id": 1,"url": "https://www.istore.kg/media/products/ipad-pro-finish-select-202405-13inch-spaceblack-glossy-wifi.webp"}
+      ],
+      "category": {"id": 2,"title": "iPad"}
+    },
+    {
+      "id": 4,
+      "title": "iPad Pro 12.9",
+      "price": 103200,
+      "memory": [
+        {"id": 1, "size": 128},
+        {"id": 2, "size": 256},
+        {"id": 3, "size": 512},
+        {"id": 4, "size": 1},
+        {"id": 5, "size": 2}
+      ],
+      "colors": [
+        {"id": 1,"name": "Space Grey"},
+        {"id": 2,"name": "Silver"}
+      ],
+      "images": [
+        {"id": 1,"url": "https://www.istore.kg/media/products/ipad-pro-13-select-cell-spacegray-202210_7Z94dCk.webp"}
+      ],
+      "category": {"id": 2,"title": "iPad"}
+    },
+    {
+      "id": 5,
+      "title": "MacBook Pro",
+      "price": 356900,
+      "memory": [
+        {"id": 1, "size": 1}
+      ],
+      "colors": [
+        {"id": 1,"name": "Space Black"},
+        {"id": 2,"name": "Silver"}
+      ],
+      "images": [
+        {"id": 1,"url": "https://www.istore.kg/media/products/mac16pro_mls4G6u_MhZ8lXa.webp"}
+      ],
+      "category": {"id": 3,"title": "MacBook"}
+    },
+    {
+      "id": 6,
+      "title": "MacBook Air",
+      "price": 141900,
+      "memory": [
+        {"id": 1, "size": 512}
+      ],
+      "colors": [
+        {"id": 1,"name": "Space Grey"},
+        {"id": 2,"name": "Midnight"},
+        {"id": 3,"name": "Starlight"},
+        {"id": 2,"name": "Silver"}
+      ],
+      "images": [
+        {"id": 1,"url": "https://www.istore.kg/media/products/macbook-air-space-gray_mhZnskN.webp"}
+      ],
+      "category": {"id": 3,"title": "MacBook"}
     }
   ],
   "categories": [
